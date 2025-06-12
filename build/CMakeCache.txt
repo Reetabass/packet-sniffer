@@ -148,7 +148,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=packet-sniffer
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -223,6 +223,15 @@ Project_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/home/reetabass/Projects/packet-sniffer
+
+//Value Computed by CMake
+packet-sniffer_BINARY_DIR:STATIC=/home/reetabass/Projects/packet-sniffer/build
+
+//Value Computed by CMake
+packet-sniffer_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+packet-sniffer_SOURCE_DIR:STATIC=/home/reetabass/Projects/packet-sniffer
 
 
 ########################
